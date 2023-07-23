@@ -27,7 +27,7 @@
             </div>
             <div class="flex justify-between items-center">
                 <a href="#"
-                    class="p-2 border-gray-800 hover:border-white border-t border-l border-r rounded">プロジェクト一覧</a>
+                    class="p-2 border-gray-800 hover:border-white border-t border-l border-r rounded-t">プロジェクト一覧</a>
                 <a href=""
                     class="flex items-center p-2 rounded-t-lg bg-emerald-600 hover:bg-emerald-800 font-semibold text-base">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
